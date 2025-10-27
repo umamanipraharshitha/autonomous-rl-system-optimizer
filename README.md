@@ -78,7 +78,7 @@ The frontend (in `dashboard/frontend`) connects to Flask’s API and visualizes:
 * **Training progress** (loss curves, epochs, sample counts)
 
 
-## 🧰 Run Locally
+##  Run Locally
 
 ### 1️⃣ Backend Setup
 
@@ -98,7 +98,7 @@ npm install
 npm start  # React runs on http://localhost:3000
 ```
 
-## 📁 Data & Logs
+## Data & Logs
 
 | File                             | Description                |
 | -------------------------------- | -------------------------- |
@@ -109,7 +109,7 @@ npm start  # React runs on http://localhost:3000
 
 ---
 
-## 🧠 Reinforcement Learning Model
+##  Reinforcement Learning Model
 
 * **State:** `[CPU%, RAM%, gamma]`
 * **Actions:** `[Decrease γ, Maintain γ, Increase γ]`
@@ -122,14 +122,14 @@ npm start  # React runs on http://localhost:3000
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 * Integrate **hardware control APIs** for real power/fan/speed management.
 * Add **real-time charts and alerts** in the dashboard.
 
 ---
 
-## 🧾 License
+##  License
 
 Released under the **MIT License** — free to use, modify, and extend.
 
