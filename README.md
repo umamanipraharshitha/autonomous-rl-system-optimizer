@@ -17,16 +17,13 @@ This project creates an **end-to-end intelligent optimization system** using rei
 6. **React Dashboard** – visualizes system metrics, rewards, and RL actions in real time.
 
 ---
-Sure — here’s a clean, concise version with **one line per layer**, perfect for your `README.md`:
 
----
-
-**Machine Learning:** Python, PyTorch, NumPy
-**System Monitoring:** psutil, json, pathlib, rule-based labeling
-**Backend:** Flask, Flask-CORS, REST API (JSON)
-**Frontend:** React.js, Axios, Chart.js, Tailwind CSS
-**Data & Logs:** JSONL, JSON
-**Development Tools:** Git, GitHub, pip, Node.js, npm
+1. **Machine Learning:** Python, PyTorch, NumPy
+2. **System Monitoring:** psutil, json, pathlib, rule-based labeling
+3. **Backend:** Flask, Flask-CORS, REST API (JSON)
+4. **Frontend:** React.js, Axios, Chart.js, Tailwind CSS
+5. **Data & Logs:** JSONL, JSON
+6. **Development Tools:** Git, GitHub, pip, Node.js, npm
 
 
 ## The Role of `gamma`
