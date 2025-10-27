@@ -128,5 +128,5 @@ npm start  # React runs on http://localhost:3000
 
 ##  License
 
-Released under the **MIT License** — free to use, modify, and extend.
+Released under the Apache License 2.0 — free to use, modify, and distribute with proper attribution and notice preservation.
 
