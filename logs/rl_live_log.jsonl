@@ -1,0 +1,14 @@
+{"timestamp": "2025-10-27 17:45:46", "cpu_percent": 14.1, "ram_percent": 63.1, "action": 0, "gamma": 45, "reward": 68.56}
+{"timestamp": "2025-10-27 17:45:54", "cpu_percent": 7.5, "ram_percent": 62.4, "action": 0, "gamma": 45, "reward": 72.73}
+{"timestamp": "2025-10-27 17:46:01", "cpu_percent": 7.5, "ram_percent": 62.5, "action": 0, "gamma": 45, "reward": 72.7}
+{"timestamp": "2025-10-27 17:46:07", "cpu_percent": 12.6, "ram_percent": 62.0, "action": 2, "gamma": 55, "reward": 69.79}
+{"timestamp": "2025-10-27 17:46:43", "cpu_percent": 9.9, "ram_percent": 62.5, "action": 0, "gamma": 45, "reward": 71.25999999999999}
+{"timestamp": "2025-10-27 17:46:49", "cpu_percent": 25.2, "ram_percent": 62.9, "action": 2, "gamma": 55, "reward": 61.96000000000001}
+{"timestamp": "2025-10-27 17:46:55", "cpu_percent": 10.7, "ram_percent": 62.7, "action": 2, "gamma": 55, "reward": 70.72}
+{"timestamp": "2025-10-27 17:47:01", "cpu_percent": 9.4, "ram_percent": 62.7, "action": 2, "gamma": 55, "reward": 71.5}
+{"timestamp": "2025-10-27 17:47:37", "cpu_percent": 9.7, "ram_percent": 62.0, "action": 2, "gamma": 55, "reward": 71.53}
+{"timestamp": "2025-10-27 17:47:43", "cpu_percent": 6.1, "ram_percent": 61.9, "action": 2, "gamma": 55, "reward": 73.72}
+{"timestamp": "2025-10-27 17:47:49", "cpu_percent": 12.9, "ram_percent": 61.9, "action": 2, "gamma": 55, "reward": 69.64}
+{"timestamp": "2025-10-27 17:47:56", "cpu_percent": 4.1, "ram_percent": 61.8, "action": 2, "gamma": 55, "reward": 74.95}
+{"timestamp": "2025-10-27 17:48:31", "cpu_percent": 3.8, "ram_percent": 62.6, "action": 2, "gamma": 55, "reward": 74.89}
+{"timestamp": "2025-10-27 17:48:37", "cpu_percent": 6.4, "ram_percent": 62.6, "action": 2, "gamma": 55, "reward": 73.33}

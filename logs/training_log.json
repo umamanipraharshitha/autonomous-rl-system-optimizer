@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-10-27 17:38:21",
+    "samples": 1,
+    "epochs": 10,
+    "avg_loss": 4.653975
+  },
+  {
+    "timestamp": "2025-10-27 17:39:21",
+    "samples": 11,
+    "epochs": 10,
+    "avg_loss": 2.411014
+  },
+  {
+    "timestamp": "2025-10-27 17:40:21",
+    "samples": 21,
+    "epochs": 10,
+    "avg_loss": 0.610854
+  },
+  {
+    "timestamp": "2025-10-27 17:41:21",
+    "samples": 31,
+    "epochs": 10,
+    "avg_loss": 0.221853
+  },
+  {
+    "timestamp": "2025-10-27 17:45:46",
+    "samples": 82,
+    "epochs": 10,
+    "avg_loss": 4.451134
+  },
+  {
+    "timestamp": "2025-10-27 17:46:46",
+    "samples": 92,
+    "epochs": 10,
+    "avg_loss": 0.910813
+  },
+  {
+    "timestamp": "2025-10-27 17:47:46",
+    "samples": 102,
+    "epochs": 10,
+    "avg_loss": 0.283123
+  }
+]

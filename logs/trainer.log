@@ -1,0 +1,17 @@
+[Trainer] Trainer started — will retrain periodically if labeled data exists...
+[Trainer] Model trained and saved. Loss logged to logs/training_log.json
+[Trainer] Model trained and saved. Loss logged to logs/training_log.json
+[Trainer] Model trained and saved. Loss logged to logs/training_log.json
+[Trainer] Model trained and saved. Loss logged to logs/training_log.json
+Traceback (most recent call last):
+  File "C:\Users\mprah\autotunder\trainer.py", line 139, in <module>
+    time.sleep(60)
+KeyboardInterrupt
+[Trainer] Trainer started — will retrain periodically if labeled data exists...
+[Trainer] Model trained and saved. Loss logged to logs/training_log.json
+[Trainer] Model trained and saved. Loss logged to logs/training_log.json
+[Trainer] Model trained and saved. Loss logged to logs/training_log.json
+Traceback (most recent call last):
+  File "C:\Users\mprah\autotunder\trainer.py", line 139, in <module>
+    time.sleep(60)
+KeyboardInterrupt

@@ -1,0 +1,14 @@
+ Starting labeler... labeling new logs automatically...
+Traceback (most recent call last):
+  File "C:\Users\mprah\autotunder\data_labeler.py", line 57, in <module>
+    run_labeler()
+  File "C:\Users\mprah\autotunder\data_labeler.py", line 51, in run_labeler
+    time.sleep(poll_interval)
+KeyboardInterrupt
+ Starting labeler... labeling new logs automatically...
+Traceback (most recent call last):
+  File "C:\Users\mprah\autotunder\data_labeler.py", line 57, in <module>
+    run_labeler()
+  File "C:\Users\mprah\autotunder\data_labeler.py", line 51, in run_labeler
+    time.sleep(poll_interval)
+KeyboardInterrupt
